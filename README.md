@@ -4,7 +4,7 @@ An API in C++ with a variety of the most popular sorting algorithms ranging from
 
 # Methods
 
-## TBD
+## TBD will provide the source code soon
 
 # Usage and Limitations
 
