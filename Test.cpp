@@ -2,7 +2,7 @@
 *	© Superharmonic Technologies
 *	Pavlos Sakoglou
 *
-*  =================================================
+*  ==================================================
 *
 *	Sorting Algorithm Strategy API Test file
 *
