@@ -1,5 +1,5 @@
 /*
-*	© Superharmonic Technologies
+*	Â© Superharmonic Technologies
 *	Pavlos Sakoglou
 *
 *  ================================================
@@ -11,7 +11,6 @@
 // Multiple inclusion guards
 #ifndef SORTING_ALGOS_HPP
 #define SORTING_ALGOS_HPP
-
 
 namespace sorting {
 	namespace algorithms {
